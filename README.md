@@ -3,6 +3,7 @@ Hello, this is a simple script to chech in a sigle line the cpu freq, cpu temp a
 Fell free to change the script to all you preferences.
 I made this script because i have 8 Raspberry Pi that are mining and i didnt want to check the temp by connecting 
 manually to each one so i run the script from 1 and its checking to all 8 of them.
+You need to clone this script to all your pi's/working stations, see the instruction below. Enjoy! 
 
 
 
